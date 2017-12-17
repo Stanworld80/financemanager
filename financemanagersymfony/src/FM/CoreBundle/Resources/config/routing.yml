@@ -1,3 +1,0 @@
-fm_core_homepage:
-    path:     /
-    defaults: { _controller: FMCoreBundle:Default:index }

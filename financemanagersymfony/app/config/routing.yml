@@ -1,3 +1,0 @@
-fm_core:
-    resource: "@FMCoreBundle/Resources/config/routing.yml"
-    prefix:   /
