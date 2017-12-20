@@ -1,2 +1,0 @@
-# financemanager
-A finance Manager
