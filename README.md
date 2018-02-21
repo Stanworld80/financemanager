@@ -1,1 +1,2 @@
-README
+Finance manager
+================
